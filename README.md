@@ -65,4 +65,5 @@ git clone https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel.git
 ```sh
 { "type": "posdata", "position": 120.5 }
 ```
-## 🎬 Demo Video
+## 🎬 Demo Video  
+![YouTube](https://youtube.com/shorts/O2dhFFsDqXU?si=uG8DBgyA7aWfxruK)
