@@ -39,12 +39,14 @@ git clone https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel.git
     <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/5.png" alt="Image 2" width="200"/></td> 
   </tr>
 </table>  
+
 ## 🛠 Lead screw mechanism
   <tr>
     <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/1.png" alt="Image 1" width="600"/></td>
     <td><img src="https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/2.png" alt="Image 1" width="600"/></td>
   </tr>
-</table>
+</table>  
+
 ## 🔄 Communication Overview  
 
 - The system operates in Master-Slave mode via UART communication.
