@@ -30,6 +30,10 @@ This project demonstrates how to control a **stepper motor** using an **ESP32**,
 ```sh
 git clone https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel.git
 ```
+2️⃣ **Create/Open project with platformIO on VS Code**   
+```sh
+https://youtu.be/tDh9iNSV2l0
+```
 ## 🛠 Wiring
 ![schematic](https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/Wiringstepmotor.png)   
 
