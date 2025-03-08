@@ -26,6 +26,8 @@ This project demonstrates how to control a **stepper motor** using an **ESP32**,
 ## 📜 Setup & Installation
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel.git  
-## Wiring
+git clone https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel.git
+```
+## 🛠 Wiring
+![schematic](https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel/blob/main/Images/Wiringstepmotor.png) 
 
