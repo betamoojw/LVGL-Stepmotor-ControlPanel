@@ -46,9 +46,11 @@ git clone https://github.com/pangcrd/LVGL-Stepmotor-ControlPanel.git
   </tr>
 </table>
 ## 🔄 Communication Overview  
-- The system operates in Master-Slave mode via UART communication:
+
+- The system operates in Master-Slave mode via UART communication.
 - Master (ESP32 + LVGL UI) sends control commands in JSON format
-- Slave (ESP32 + Stepper Control) receives commands, moves the stepper motor, and sends back the real-time position  
+- Slave (ESP32 + Stepper Control) receives commands, moves the stepper motor, and sends back the real-time position 
+
 📌 **Example JSON Data Sent from Master**  
 
 ```sh
