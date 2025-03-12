@@ -13,16 +13,16 @@ This project demonstrates how to control a **stepper motor** using an **ESP32**,
 - **ESP32** (Master & Slave communication setup)  
 - **Stepper motor (e.g., NEMA17)**  
 - **Stepper motor driver (e.g., A4988, DRV8825, or TMC2209)**  
-- **2mm lead screw mechanism**  
-- **Touchscreen display (ESP32 Cheap Yellow display, e.g., 2.8" TFT)**  
+- **Lead screw T8 steps 2mm**  
+- **Touchscreen display (ESP32 Cheap Yellow display, other 2.8" TFT)**  
 - **Limit switch for homing**
 - **3D printer**
 
 ## 🔗 Software & Libraries
-- **LVGL** (UI framework)  
-- **ArduinoJson** (Data serialization)  
-- **AccelStepper** (Stepper motor control)  
-- **HardwareSerial** (ESP32 UART communication)
+- **LVGL**
+- **ArduinoJson** 
+- **AccelStepper** 
+- **HardwareSerial**
 - **Design UI with Squareline Studio** 
 
 ## 📜 Setup & Installation
